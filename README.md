@@ -152,7 +152,7 @@ vm_cache_entries{type="storage/metricName"} 24
 Имя VictoriaMetrics
 URL http://zabbix.strokov.lan:8428
 
-18. Создаём новую панель. В качестве источника данных устанавливаем VictoriaMetrics  
+18. Создаём новую панель в grafana. В качестве источника данных устанавливаем VictoriaMetrics  
 Для проверки работы выбираем метрику nginx_connections_accepted
 Смотрим что получилось, делаем скриншот и прикладываем в качестве результата выполнения задачи.
 
