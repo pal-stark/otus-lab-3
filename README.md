@@ -148,6 +148,7 @@ vm_cache_entries{type="storage/metricName"} 24
 ...........
 ```
 Метрики попали в базу и готовы к просмотру.
+
 17. Переходим в grafana. Добавляем новый источник данных в Configuration->DataSources  
 Имя VictoriaMetrics
 URL http://zabbix.strokov.lan:8428
